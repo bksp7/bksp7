@@ -1,5 +1,5 @@
 # Maximilian Alexander Bowman  
-📍 Los Angeles, CA | 💻 Aspiring Data Analyst/Scientist | 🎓 Computer Science Masters in Progress  
+📍 Los Angeles, CA | 💻 Aspiring Data Scientist | 🎓 Computer Science Studies in Progress  
 
 ---
 
