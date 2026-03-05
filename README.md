@@ -1,18 +1,18 @@
 # Maximilian Alexander Bowman  
-📍 Los Angeles, CA | 💻 Aspiring Data Scientist | 🎓 Computer Science Studies in Progress  
+📍 Los Angeles, CA | 💻 Aspiring Data Scientist | 🎓 MS-ECE Studies in Progress  
 
 ---
 
 ## About Me  
-I'm a data enthusiast with a background in **digital media production, business operations, and marketing**. I have a **Bachelors of Arts in Film and Digital Media Production**. I'm currently pursuing a **Associates of Science in Computer Science** to build a strong foundation in **computer systems and algorithms, object-oriented programming, data science and analysis, artificial intelligence and machine learning**.  
+I'm a data enthusiast with a background in **digital media production, business operations, and marketing**. I have a **Bachelors of Arts in Film and Digital Media Production**. I'm currently pursuing a **Masters of Science in Electrical and Computer Engineering** to build a strong foundation in **embedded systems, signal processing, computer systems and algorithms, object-oriented programming, data science and analysis, artificial intelligence and machine learning**.  
 
 🌟 **My Goal:** Use data-driven insights to solve complex problems, optimize processes, and drive informed decision-making across industries.
 
 ---
 
 ## Skills & Tools  
-- **Languages:** Python, SQL, C++ (Object-Oriented Programming), R (coming soon!)  
-- **Libraries/Frameworks:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
+- **Languages:** Python, SQL, C++ (Object-Oriented Programming), R  
+- **Libraries/Frameworks:** Pandas, NumPy, Matplotlib, Scikit-learn  
 - **Cloud:** AWS (Database Essentials, Compute Engines)  
 - **Database Management:** SQL (PostgreSQL, Oracle PL/SQL)  
 - **Visualization:** Tableau, Power BI, Matplotlib  
@@ -48,7 +48,6 @@ I'm a data enthusiast with a background in **digital media production, business 
 
 ## Connect With Me  
 - **LinkedIn:** [Maximilian Bowman](https://linkedin.com/in/maximilianbowman)  
-- **Portfolio Website:** [Your Website](https;//www.hyperionmedialabs.com)  
 - **Email:** maximilian.bowman@alumnimail.pepperdine.edu  
 
 ---
