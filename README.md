@@ -1,5 +1,5 @@
 # Maximilian Alexander Bowman  
-📍 Los Angeles, CA | 💻 Aspiring Data Scientist | 🎓 MS-ECE Studies in Progress  
+📍 Phoenix, AZ | 💻 Aspiring Data Scientist | 🎓 MS-ECE Studies in Progress  
 
 ---
 
