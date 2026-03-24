@@ -1,48 +1,31 @@
 # Maximilian Alexander Bowman  
-📍 Phoenix, AZ | 💻 Aspiring Data Scientist | 🎓 MS-ECE Studies in Progress  
+💻 Aspiring Computer Scientist | 🎓 MSCS Studies in Progress  
 
 ---
 
 ## About Me  
-I'm a data enthusiast with a background in **digital media production, business operations, and marketing**. I have a **Bachelors of Arts in Film and Digital Media Production**. I'm currently pursuing a **Masters of Science in Electrical and Computer Engineering** to build a strong foundation in **embedded systems, signal processing, computer systems and algorithms, object-oriented programming, data science and analysis, artificial intelligence and machine learning**.  
+I'm a computer science enthusiast with a background in **digital media production, business operations, and marketing**. I have a **Bachelors of Arts in Film and Digital Media Production**. I'm currently pursuing a **Masters of Science in Computer Science** to build a strong foundation in **computer systems and algorithms, object-oriented programming, data science and analysis, artificial intelligence and machine learning**.
 
 🌟 **My Goal:** Use data-driven insights to solve complex problems, optimize processes, and drive informed decision-making across industries.
 
 ---
 
 ## Skills & Tools  
-- **Languages:** Python, SQL, C++ (Object-Oriented Programming), R  
-- **Libraries/Frameworks:** Pandas, NumPy, Matplotlib, Scikit-learn  
-- **Cloud:** AWS (Database Essentials, Compute Engines)  
-- **Database Management:** SQL (PostgreSQL, Oracle PL/SQL)  
-- **Visualization:** Tableau, Power BI, Matplotlib  
+- **Languages:** C/C++ (Object-Oriented Programming), Python, SQL, Java 
+- **Libraries/Frameworks:** Pandas, NumPy 
+- **Database Management:** SQL (Oracle PL/SQL)  
+- **Visualization:** Tableau, Power BI, Excel  
 - **Other:** Data Cleaning, EDA (Exploratory Data Analysis), Predictive Modeling  
 
 ---
 
 ## Featured Projects  
 
-### [1. Retail Sales Analysis](https://github.com/bksp7/retail-sales-analysis)  
-**Description:** A Python-based exploratory data analysis (EDA) of retail sales data to uncover trends and seasonality.  
+### [1. X](https://github.com/bksp7/X)  
+**Description:** A Python-based exploratory data analysis (EDA) of X to uncover trends and seasonality.  
 - **Tools Used:** Pandas, Matplotlib, Seaborn, Jupyter Notebook  
-- **Key Insights:** Identified 20% YoY sales growth in Q4 driven by seasonal product launches.  
+- **Key Insights:** Identified X% 
 - **What I Learned:** Automating data cleaning workflows and translating findings into actionable insights.  
-
----
-
-### [2. Customer Segmentation with SQL](https://github.com/bksp7/customer-segmentation-sql)  
-**Description:** Built a customer segmentation model using SQL queries to analyze a retail database and classify customer behavior.  
-- **Tools Used:** PostgreSQL, Python  
-- **Key Insights:** Segmented customers into 3 groups based on purchase frequency and order volume, improving targeted marketing strategies.  
-- **What I Learned:** Optimizing complex JOIN queries, leveraging CTEs, and creating dynamic SQL reports.  
-
----
-
-### [3. Predictive Modeling for House Prices](https://github.com/bksp7/predictive-modeling)  
-**Description:** Developed a machine learning model to predict house prices using a Kaggle dataset.  
-- **Tools Used:** Scikit-learn, Pandas, Matplotlib, Jupyter Notebook  
-- **Key Insights:** Achieved a prediction accuracy of **87%** using Random Forest Regression.  
-- **What I Learned:** Feature engineering, hyperparameter tuning, and evaluating regression models.  
 
 ---
 
