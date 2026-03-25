@@ -1,5 +1,5 @@
 # Maximilian Alexander Bowman  
-💻 Aspiring Computer Scientist | 🎓 MSCS Studies in Progress  
+💻 Computer Scientist | 🎓 MSCS Studies in Progress  
 
 ---
 
